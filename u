@@ -1,0 +1,41 @@
+[33mcommit f94ef9b0a608799c6d0bc25b181ca3fdf27cebf4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Ricardo Garcia <ricardo.garo@gmail.com>
+Date:   Tue Feb 22 22:01:46 2022 -0500
+
+    mostrando status corto
+
+[33mcommit b5558c103012f8720cd37ef0017ec2d062b0bb2f[m
+Author: Ricardo Garcia <ricardo.garo@gmail.com>
+Date:   Tue Feb 22 21:58:21 2022 -0500
+
+    agregando archivo gitignore
+
+[33mcommit 785f4a1fcf1da2dddc9eff46477fcb741a38e7df[m
+Author: Ricardo Garcia <ricardo.garo@gmail.com>
+Date:   Tue Feb 22 21:54:46 2022 -0500
+
+    Devolviendo nombre del archivo
+
+[33mcommit ada9ae57d323d9d352f44021fa246c698e60ea89[m
+Author: Ricardo Garcia <ricardo.garo@gmail.com>
+Date:   Tue Feb 22 21:54:06 2022 -0500
+
+    renombrando archivo
+
+[33mcommit 2a9bdd30c8c7ac918967878cd190f8cf209e9b1b[m
+Author: Ricardo Garcia <ricardo.garo@gmail.com>
+Date:   Tue Feb 22 21:47:19 2022 -0500
+
+    Eliminando archivo 2
+
+[33mcommit bebc7ca3a1609d1254a444c079d15ad03fff28f4[m
+Author: Ricardo Garcia <ricardo.garo@gmail.com>
+Date:   Tue Feb 22 21:43:32 2022 -0500
+
+    Agregando un chanchito feliz
+
+[33mcommit d58fb07c75ecb8d4a8b5537f2c2c21fcace606f4[m
+Author: Ricardo Garcia <ricardo.garo@gmail.com>
+Date:   Tue Feb 22 21:42:12 2022 -0500
+
+    Commit inicial
